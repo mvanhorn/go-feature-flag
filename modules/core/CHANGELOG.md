@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.2](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.7.1...modules/core/v0.7.2) (2026-06-03)
+
+
+### 🔧 Chores
+
+* Bump golang.org/x/net from 0.53.0 to 0.54.0 ([#5296](https://github.com/thomaspoignant/go-feature-flag/issues/5296)) ([b31655a](https://github.com/thomaspoignant/go-feature-flag/commit/b31655ac1ab8e12d6f9284b2f725d1cd74b80c3b))
+
 ## [0.7.1](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.7.0...modules/core/v0.7.1) (2026-05-15)
 
 
