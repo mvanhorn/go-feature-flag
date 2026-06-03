@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.0.1](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.0...openfeature/providers/kotlin-provider/v1.0.1) (2026-06-03)
+
+
+### 🔧 Chores
+
+* Bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7 ([#5225](https://github.com/thomaspoignant/go-feature-flag/issues/5225)) ([c228000](https://github.com/thomaspoignant/go-feature-flag/commit/c228000d65edf4eefcaa86b5c2eb72790b6d22e2))
+* Bump github.com/aws/aws-sdk-go-v2/config from 1.32.16 to 1.32.17 ([#5228](https://github.com/thomaspoignant/go-feature-flag/issues/5228)) ([977be4f](https://github.com/thomaspoignant/go-feature-flag/commit/977be4fbc82e52a3ac0a3fd6d6370d6f68dabcb7))
+* Bump go.opentelemetry.io/otel/sdk from 1.41.0 to 1.42.0 ([#4944](https://github.com/thomaspoignant/go-feature-flag/issues/4944)) ([ede0c19](https://github.com/thomaspoignant/go-feature-flag/commit/ede0c19d7452e55e9b8e27d1c929da9c0492a82a))
+* Bump go.opentelemetry.io/otel/trace from 1.42.0 to 1.43.0 ([#5079](https://github.com/thomaspoignant/go-feature-flag/issues/5079)) ([9505e0b](https://github.com/thomaspoignant/go-feature-flag/commit/9505e0bf1139244123f3d683cfefb698305601e7))
+* Bump golang.org/x/net from 0.53.0 to 0.54.0 ([#5296](https://github.com/thomaspoignant/go-feature-flag/issues/5296)) ([b31655a](https://github.com/thomaspoignant/go-feature-flag/commit/b31655ac1ab8e12d6f9284b2f725d1cd74b80c3b))
+
+
+### 📚 Documentation
+
+* Cleanup CHANGELOGS ([#5333](https://github.com/thomaspoignant/go-feature-flag/issues/5333)) ([7d6c5a3](https://github.com/thomaspoignant/go-feature-flag/commit/7d6c5a3341c1a0e028163c0fd8e2ad99b27d67ef))
+
+
+### ⚙️ CI/CD
+
+* zizmor 3 ([#5255](https://github.com/thomaspoignant/go-feature-flag/issues/5255)) ([4b4e03a](https://github.com/thomaspoignant/go-feature-flag/commit/4b4e03a5d5d396398dd633b999c30d618f56816b))
+
 ## [1.0.0](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.0...openfeature/providers/kotlin-provider/v1.0.0) (2026-02-05)
 
 
