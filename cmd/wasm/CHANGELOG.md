@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/thomaspoignant/go-feature-flag/compare/cmd/wasm/v0.2.2...cmd/wasm/v0.2.3) (2026-06-03)
+
+
+### 🔧 Chores
+
+* Bump golang.org/x/net from 0.53.0 to 0.54.0 ([#5296](https://github.com/thomaspoignant/go-feature-flag/issues/5296)) ([b31655a](https://github.com/thomaspoignant/go-feature-flag/commit/b31655ac1ab8e12d6f9284b2f725d1cd74b80c3b))
+
 ## [0.2.2](https://github.com/thomaspoignant/go-feature-flag/compare/cmd/wasm/v0.2.2...cmd/wasm/v0.2.2) (2026-05-15)
 
 
