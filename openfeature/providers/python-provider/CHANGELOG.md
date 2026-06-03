@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v1.1.0...openfeature/providers/python-provider/v1.1.1) (2026-06-03)
+
+
+### 📚 Documentation
+
+* Cleanup CHANGELOGS ([#5333](https://github.com/thomaspoignant/go-feature-flag/issues/5333)) ([7d6c5a3](https://github.com/thomaspoignant/go-feature-flag/commit/7d6c5a3341c1a0e028163c0fd8e2ad99b27d67ef))
+
 ## [1.1.0](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v1.0.1...openfeature/providers/python-provider/v1.1.0) (2026-05-26)
 
 
